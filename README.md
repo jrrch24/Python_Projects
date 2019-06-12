@@ -1,11 +1,11 @@
 # Python_Projects
 NOTE TO SELF:
 File will be used ONLY TO record status of each project.
-
-C-Complete
-WP-Work-in-Progress
-I-Incomplete
-
+----------------------
+|C-Complete          |
+|WP-Work-in-Progress |
+|I-Incomplete        |
+----------------------
 
 
            Project                            Start                   End                      Status (C/WP/I)
